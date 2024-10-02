@@ -1,0 +1,14 @@
+/workspaces/codespaces-blank/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/workspaces/codespaces-blank/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/workspaces/codespaces-blank/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/workspaces/codespaces-blank/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/workspaces/codespaces-blank/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/workspaces/codespaces-blank/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/workspaces/codespaces-blank/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/workspaces/codespaces-blank/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/workspaces/codespaces-blank/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/workspaces/codespaces-blank/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/workspaces/codespaces-blank/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
