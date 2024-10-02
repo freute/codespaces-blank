@@ -1,0 +1,7 @@
+/workspaces/codespaces-blank/WebApplication1/rel/WebApplication1
+/workspaces/codespaces-blank/WebApplication1/rel/appsettings.Development.json
+/workspaces/codespaces-blank/WebApplication1/rel/appsettings.json
+/workspaces/codespaces-blank/WebApplication1/rel/WebApplication1.dll
+/workspaces/codespaces-blank/WebApplication1/rel/WebApplication1.deps.json
+/workspaces/codespaces-blank/WebApplication1/rel/WebApplication1.runtimeconfig.json
+/workspaces/codespaces-blank/WebApplication1/rel/WebApplication1.pdb
